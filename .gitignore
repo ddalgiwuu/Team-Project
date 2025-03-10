@@ -1,0 +1,5 @@
+# Large data files
+Data/ConsumerElectronics.csv
+
+# macOS system files
+.DS_Store
